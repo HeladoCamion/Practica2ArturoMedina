@@ -1,0 +1,5 @@
+[{
+  "file": "C:\\Practica2\\Ejemplo1\\main.cpp",
+  "directory": "C:\\Practica2\\Ejemplo1",
+  "command": "clang++ -c C:\\Practica2\\Ejemplo1\\main.cpp -o C:\\Practica2\\Ejemplo1\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
